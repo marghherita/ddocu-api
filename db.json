@@ -24,7 +24,7 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/museum.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 2,
@@ -37,7 +37,7 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/museum.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 3,
@@ -48,9 +48,9 @@
       "image": "https://images.unsplash.com/photo-1602845071219-d4d5bd9715cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
       "date": "2022-03-11T18:25:43.511Z",
       "icon": "https://img.icons8.com/ios-filled/50/000000/theatre-mask.png",
-      "popular": true,
+      "popular": false,
       "favorite": true,
-      "raccomended": true
+      "recommended": false
     },
     {
       "id": 4,
@@ -63,20 +63,20 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/museum.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 5,
       "city": "Messina",
-      "title": "Duo semiserio",
+      "title": "Duo Semiserio",
       "description": "Poliedrico saxofonista e clarinettista Carmelo Coglitore insieme al solido contrabbasso di Pino Delfino.",
       "price": "25€",
       "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "date": "2022-03-26T18:25:43.511Z",
       "icon": "https://img.icons8.com/ios-filled/50/000000/musical-notes.png",
-      "popular": true,
+      "popular": false,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 6,
@@ -89,7 +89,7 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/fork.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 7,
@@ -102,7 +102,7 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/museum.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 8,
@@ -115,7 +115,7 @@
       "icon": "https://img.icons8.com/ios-filled/50/000000/musical-notes.png",
       "popular": true,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     },
     {
       "id": 9,
@@ -126,9 +126,9 @@
       "image": "https://images.unsplash.com/photo-1598451880945-b175e80d636e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=875&q=80",
       "date": "2022-05-01T18:25:43.511Z",
       "icon": "https://img.icons8.com/ios-filled/50/000000/fork.png",
-      "popular": true,
+      "popular": false,
       "favorite": true,
-      "raccomended": true
+      "recommended": true
     }
   ],
   "home-card": [
