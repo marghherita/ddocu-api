@@ -168,5 +168,20 @@
       "description": "Fondata intorno al 581 a. C., Agrigento sorge in un territorio in cui si insediarono i vari popoli che lasciarono traccia nell'isola.",
       "imagecity": "https://images.unsplash.com/photo-1573905975434-fa12cde6b7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     }
+  ],
+  "city_page": [
+    {
+      "id": "24",
+      "city": "Palermo",
+      "image": "https://images.unsplash.com/photo-1561280663-4d97bec12eb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Prova Titolo 1"
+    },
+    {
+      "id": "15",
+      "city": "Catania",
+      "image": "https://images.unsplash.com/photo-1561280663-4d97bec12eb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "title": "Prova Titolo 2"
+    }
+
   ]
 }
