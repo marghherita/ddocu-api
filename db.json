@@ -169,68 +169,72 @@
       "imagecity": "https://images.unsplash.com/photo-1573905975434-fa12cde6b7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     }
   ],
-  "city_page": [
+ "city_page": [
     {
       "id": "24",
       "city": "Palermo",
       "coord": "38° 06′ 40″N - 13° 21′ 06″ E",
       "image": "https://images.unsplash.com/photo-1541777490254-a50eb9045486?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-      "title": "Prova Titolo 1",
-      "description": "",
-      "when": "",
-      "time": "",
-      "place": ""
-
+      "title": "Il capoluogo della Sicilia, tra bellezza e tradizione.",
+      "description": "La città si estende sulla pianura Conca d'Oro ed è bagnata dal suo golfo omonimo e circondata dalla barriera dei Monti di Palermo. Il sito è abitato sin dalla preistoria e la sua lunga storia e il succedersi di numerose civiltà e popoli hanno regalato alla città un notevole patrimonio artistico e architettonico. Il sito seriale Palermo arabo-normanna e le cattedrali di Cefalù e Monreale, di cui fanno parte più beni monumentali è stato dichiarato Patrimonio dell'umanità dall'UNESCO nel 2015. Numerosi edifici, tra chiese e palazzi, sono riconosciuti monumenti nazionali.",
+      "when": "Palermo gode di un clima di tipo mediterraneo, caratterizzato da estati ovviamente caldissime e da inverni miti e piovosi. E' difficile che il termometro nei mesi più freddi dell'anno registri minime al di sotto dello zero. Le nevicate sono rarissime e riservate alle aree più interne della provincia. Dal punto di vista climatico, i mesi consigliati sono maggio, giugno e settembre, per godere di temperature piacevoli ma non eccessive in città e poter fare il bagno a mare.",
+      "time": "Viste le numerose attrazioni che offre il capoluogo, i giorni da passare in città saranno minimo quattro, avere più tempo vi consentirà di visitare anche i meravigliosi dintorni di Palermo, da Mondello a Cefalù per un tuffo indimenticabile nelle acque cristalline.",
+      "place": "Mentre andrete in giro per le strade ed i vicoli e solo dopo aver visto la maestosa Cattedrale e i suoi dintorni, non mancate una visita alla Vucciria, Ballarò e Capo, per vedere i mercati locali. Da qui, sarete poi pronti per le fortificazioni arabo-normanne e le cupole meravigliose di San Giovanni degli Eremiti. Prendetevi del tempo per ammirare le svariate piazze presenti in città, respirate la storia e portate con voi i ricordi indelebili che solo Palermo sa regalare."
     },
     {
       "id": "15",
       "city": "Catania",
       "coord": "37° 30′ 09″ N - 15° 05′ 14″ E",
       "image": "https://images.unsplash.com/photo-1584200215972-2bededed55c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
-      "title": "Prova Titolo 2",
-      "when": "",
-      "time": "",
-      "place": ""
+      "title": "La città patrimonio dell'Unesco che splende tra la cenere.",
+      "description": "Fondata nel 729 a.C. dai Calcidesi della vicina Naxos, la città vanta una storia millenaria caratterizzata da un susseguirsi di svariate culture i cui resti ne arricchiscono il patrimonio artistico, architettonico e culturale. Sotto la dinastia aragonese fu capitale del Regno di Sicilia, e dal 1434 per volere del re Alfonso V è sede della più antica Università dell'isola. Nel corso della sua storia è stata più volte interessata da eruzioni vulcaniche e da terremoti. Il barocco del suo centro storico è stato dichiarato dall'UNESCO Patrimonio dell'umanità, assieme a quello di sette comuni del Val di Noto (Caltagirone, Militello in Val di Catania, Modica, Noto, Palazzolo Acreide, Ragusa e Scicli), nel 2002.",
+      "when": "Il clima catanese è di tipo temperato, con estati bollenti (tra le più calde dell'intera penisola) ed escursioni termiche significative, specialmente durante le notti invernali. Dal punto di vista climatico, i mesi consigliati sono maggio, giugno e settembre, per godere di temperature piacevoli ma non eccessive in città e poter fare il bagno a mare.",
+      "time": "Catania è una di quelle città che chiede a gran voce di essere vissuta appieno, per questo un soggiorno minimo di tre giorni vi permetterà di visitarla in tutto il suo splendore.",
+      "place": "È bellissimo girovagare per le strade a caso, ma provate a prendervi un po' di tempo per il Duomo nella piazza con la famosa Fontana dell'Elefante. Altre cose imprescindibili da vedere sono l'inconfondibile pescheria, le chiese di via Crociferi, e l'anfiteatro a Piazza Stesicoro. C'è poi il Castello Ursino che è un incredibile castello del XIII secolo con un museo archeologico, mentre in Piazza Dante potrete vedere quello che rimane del Monastero dei Benedettini di San Nicolò l'Arena, resti incorporati nella struttura dell'Università di Catania."
     },
     {
       "id": "147",
       "city": "Siracusa",
       "coord": "37° 04′ 09″ N - 15° 17′ 15″ E",
       "image": "https://images.unsplash.com/photo-1598976895865-af3631a92a2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80",
-      "title": "Prova Titolo 3",
-      "when": "",
-      "time": "",
-      "place": ""
+      "title": "Sicilia autentica.",
+      "description": "Posta sulla costa sud-orientale dell'isola, Siracusa possiede una storia millenaria: annoverata tra le più vaste metropoli dell'età classica, primeggiò per potenza e ricchezza con Atene, la quale tentò invano di assoggettarla. Fu la patria del matematico Archimede, che si pose a capo della sua difesa durante l'assedio dei Romani nel 212 a.C. Siracusa fu per secoli la città capitale della Sicilia, fino alla conquista da parte degli Arabi, avvenuta nell'878. Trasformatasi in epoca spagnola in una fortezza, il suo centro storico, Ortigia, assunse l'odierno aspetto barocco con la ricostruzione intrapresa a seguito del violento terremoto del 1693. ",
+      "when": "Il periodo migliore per visitare Siracusa è sicuramente quello primaverile/estivo, andarci tra Luglio e Settembre vi consentirà di godere del suo splendido mare.",
+      "time": "Due giorni saranno più che sufficenti per visitare Siracusa e la piccola perla che è Ortigia.",
+      "place": "La città vecchia di Siracusa è sull'isola di Ortigia, collegata alla parte nuova della città da tre ponti. Qui è dove troverete le principali e tipiche attrazioni storiche di una ex colonia greca, romana e spagnola, ma anche quelle culturali (piazza, palazzo, chiesa e fortificazione). Al Parco Archeologico della Neapolis, troverete il teatro greco del V secolo AC e la Latomia del Paradiso, la cava di calcare da cui deriva molta dell'antica Siracusa. Troverete anche catacombe e il famoso “Orecchio di Dionisio”"
     },
     {
       "id": "572",
       "city": "Messina",
       "coord": "38° 11′ 37″ N - 15° 33′ 15″ E",
       "image": "https://images.unsplash.com/photo-1586632567957-15eb0bd211dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-      "title": "Prova Titolo 4",
-      "when": "",
-      "time": "",
-      "place": ""
+      "title": "Porta d'ingresso in Sicilia.",
+      "description": "Fondata dai Siculi con il nome di Zancle, che nella loro lingua significava falce, venne ripopolata da coloni greci venendo rinominata Messana. Raggiunse l'apice della sua grandezza fra il tardo Medioevo e la metà del XVII secolo, quando contendeva a Palermo il ruolo di capitale del Regno di Sicilia. Messa a ferro e fuoco nel 1678 dopo una storica rivolta antispagnola che comportò l'annientamento della sua classe dirigente, venne gravemente danneggiata da un terremoto nel 1783. Fu assediata durante la rivoluzione siciliana del 1848 contro Ferdinando II di Borbone, subendo gravi danni. Nel 1908 un disastroso terremoto distrusse la città quasi per intero, provocando la morte di circa metà della popolazione. Ricostruita a partire dal 1912, spesso in stile Liberty, la città moderna si presenta con una maglia ordinata e regolare di vie ampie e rettilinee in direzione nord-sud.",
+      "when": "Il periodo indicato per visitare Messina è indubbiamente quello estivo, ma essendo una grande città si presenta più che vivibile anche in inverno, il clima è mite come nel resto della Sicilia, il nostro consiglio è di approfittare dei mesi più soleggiati per gustarvi una meravigliosa granita.",
+      "time": "Rimanete in città due o tre giorni, gustatene tutte le sue prelibatezze e osservate i suoi affascinanti angoli nascosti, se invece avete più tempo non esitate a fare un salto nelle meravigliose Isole Eolie, grazie ai numerosi collegamenti presenti al porto della città. ",
+      "place": "Separata dal continente italiano dallo Stretto di Messina, quest'affascinante città è un porto situato nel punto più a nord della costa ionica siciliana. E' casa della Cattedrale, con il suo portale gotico, finestre del XV secolo e un orologio astronomico sul campanile. Potrai esplorare i suoi ampi viali ed eleganti edifici scoprendo il Museo d'Arte di Messina così come la tormentata storia di questa città, che include un devastante terremoto nel 1908 e un bombardamento nella Seconda Guerra Mondiale."
     },
     {
       "id": "265",
       "city": "Agrigento",
       "coord": "37° 19′ 18″ N - 13° 35′ 22″ E",
       "image": "https://images.unsplash.com/photo-1573905975434-fa12cde6b7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "title": "Prova Titolo 5",
-      "when": "",
-      "time": "",
-      "place": ""
+      "title": "La città dei templi.",
+      "description": "Città dalla storia gloriosa, Agrigento è senza dubbio una delle perle della Sicilia. Qui il tempo sembra essersi fermato a secoli fa, agli albori della civiltà Occidentale. Fondata intorno al 580 a.C. con il nome greco di Akragas da coloni provenienti dalla vicina Gela e da Rodi, Agrigento reca ancora oggi le tracce dei vari popoli che vi si insediarono. La città raggiunse il massimo splendore nel V secolo a.C., prima del declino causato dal dominio cartaginese. Nel corso delle guerre puniche venne conquistata dai Romani, che le diedero il nome latino di Agrigentum.",
+      "when": "Potrete recarvi ad Agrigento in qualsiasi periodo vista la presenza di un clima mediterraneo, noi però, vi consigliamo ovviamente i mesi caldi, magari quelli di Giugno o di Settembre, quando le spiagge si svuotano e la folla va via, così potrete godere delle vere bellezze di questo posto.",
+      "time": "Uno, Due giorni basteranno per visitare Agrigento, metà giornata la dedicherete alla Valle dei Templi, il resto del tempo consigliamo di spenderlo tra le svariate spiagge presenti.",
+      "place": "La straordinaria ricchezza archeologica della città è testimoniata dalla famosa Valle dei Templi, dichiarata dall’UNESCO patrimonio dell’umanità, custodita all’interno di uno dei più grandi parchi archeologici del mondo, ampio ben 1300 ettari. Il Parco Archeologico di Agrigento comprende i resti dell’antica città di Akragas e la serie di importanti templi dorici – ben 10 – del periodo ellenico, tra cui spiccano il Tempio di Hera Lacinia e il Tempio della Concordia."
     },
     {
       "id": "587",
       "city": "Trapani",
       "coord": "38° 01′ 03″ N - 12° 30′ 54″ E",
       "image": "https://images.unsplash.com/photo-1602484162360-651e46557f2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
-      "title": "Prova Titolo 6",
-      "when": "",
-      "time": "",
-      "place": ""
+      "title": "Città di mare.",
+      "description": "Trapani è una città e un comune nella costa occidentale della Sicilia, Italia. Molta della economia della città dipende dal mare - la pesca e l'inscatolamento del pesce sono le industrie principali. La storia della città vecchia ha origine con l'inizio della età moderna ma non ci sono rimaste testimonianze specifiche, molti degli edifici storici sono (difatti) in stile barocco.",
+      "when": "Trapani è famosa per il suo mare, per il buon cibo e per i dintorni che lasciano incantati i visitatori, il nostro consiglio è quindi di visitare Trapani d'estate, fare un salto alle Isole Egadi che sicuramente resteranno impresse nel vostro cuore.",
+      "time": "Prendetevi del tempo in più per visitare questo luogo, tre giorni pieni andranno bene ma se ne avete di più prendetevelo, Trapani merita del tempo tutto per sè, il vento che caratterizza da sempre questo luogo vi accompagnerà dolcemente durante le vostre passeggiate, lasciate la fretta da parte, respirate questo mare.",
+      "place": "Visitate il centro storico della città, lasciatevi abbagliare da Favignana, Marettimo e Levanzo, raggiungibili dal porto di Trapani, fate un tuffo a San Vito lo Capo, ridente borgo marinaro conosciuto in tutto il mondo, concludete fermandovi a Castellammare del Golfo, gustate qui le tipiche cassatelle locali, non dimenticate di salire ad Erice, una funivia vi permetterà di stupirvi e innamorarvi di questo tipico borgo medievale."
     }
   ]
 }
