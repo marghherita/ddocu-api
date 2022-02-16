@@ -175,42 +175,62 @@
       "city": "Palermo",
       "coord": "38° 06′ 40″N - 13° 21′ 06″ E",
       "image": "https://images.unsplash.com/photo-1541777490254-a50eb9045486?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
-      "title": "Prova Titolo 1"
+      "title": "Prova Titolo 1",
+      "description": "",
+      "when": "",
+      "time": "",
+      "place": ""
+
     },
     {
       "id": "15",
       "city": "Catania",
       "coord": "37° 30′ 09″ N - 15° 05′ 14″ E",
       "image": "https://images.unsplash.com/photo-1584200215972-2bededed55c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
-      "title": "Prova Titolo 2"
+      "title": "Prova Titolo 2",
+      "when": "",
+      "time": "",
+      "place": ""
     },
     {
       "id": "147",
       "city": "Siracusa",
       "coord": "37° 04′ 09″ N - 15° 17′ 15″ E",
       "image": "https://images.unsplash.com/photo-1598976895865-af3631a92a2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80",
-      "title": "Prova Titolo 3"
+      "title": "Prova Titolo 3",
+      "when": "",
+      "time": "",
+      "place": ""
     },
     {
       "id": "572",
       "city": "Messina",
       "coord": "38° 11′ 37″ N - 15° 33′ 15″ E",
       "image": "https://images.unsplash.com/photo-1586632567957-15eb0bd211dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
-      "title": "Prova Titolo 4"
+      "title": "Prova Titolo 4",
+      "when": "",
+      "time": "",
+      "place": ""
     },
     {
       "id": "265",
       "city": "Agrigento",
       "coord": "37° 19′ 18″ N - 13° 35′ 22″ E",
       "image": "https://images.unsplash.com/photo-1573905975434-fa12cde6b7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
-      "title": "Prova Titolo 5"
+      "title": "Prova Titolo 5",
+      "when": "",
+      "time": "",
+      "place": ""
     },
     {
       "id": "587",
       "city": "Trapani",
       "coord": "38° 01′ 03″ N - 12° 30′ 54″ E",
       "image": "https://images.unsplash.com/photo-1602484162360-651e46557f2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80",
-      "title": "Prova Titolo 6"
+      "title": "Prova Titolo 6",
+      "when": "",
+      "time": "",
+      "place": ""
     }
   ]
 }
