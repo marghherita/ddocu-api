@@ -134,37 +134,37 @@
   "home-card": [
     {
       "id": "24",
-      "title": "PALERMO",
+      "title": "Palermo",
       "description": "La città si estende sulla pianura Conca d'Oro ed è bagnata dal suo golfo omonimo e circondata dalla barriera dei Monti di Palermo.",
       "imagecity": "https://images.unsplash.com/photo-1561280663-4d97bec12eb5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
     },
     {
       "id": "15",
-      "title": "CATANIA",
+      "title": "Catania",
       "description": "Fondata nel 729 a.C. dai Calcidesi della vicina Naxos, la città vanta una storia millenaria caratterizzata da un susseguirsi di svariate culture i cui resti ne arricchiscono il patrimonio artistico, architettonico e culturale.",
       "imagecity": "https://images.unsplash.com/photo-1584200215972-2bededed55c1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80"
     },
     {
       "id": "147",
-      "title": "SIRACUSA",
+      "title": "Siracusa",
       "description": "Posta sulla costa sud-orientale dell'isola, Siracusa possiede una storia millenaria: annoverata tra le più vaste metropoli dell'età classica, primeggiò per potenza e ricchezza con Atene, la quale tentò invano di assoggettarla",
       "imagecity": "https://images.unsplash.com/photo-1598976895865-af3631a92a2e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1774&q=80"
     },
     {
       "id": "572",
-      "title": "MESSINA",
+      "title": "Messina",
       "description": "Fondata dai Siculi con il nome di Zancle, che nella loro lingua significava falce, venne ripopolata da coloni greci venendo rinominata Messana.",
       "imagecity": "https://images.unsplash.com/photo-1586632567957-15eb0bd211dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80"
     },
     {
       "id": "587",
-      "title": "TRAPANI",
+      "title": "Trapani",
       "description": "Trapani ha sviluppato nel tempo una fiorente attività economica legata all'estrazione e al commercio del sale, giovandosi della sua posizione naturale, proiettata sul Mediterraneo, e del suo porto, antico sbocco commerciale per Eryx (l'odierna Erice), sita sul monte omonimo che sovrasta Trapani.",
       "imagecity": "https://images.unsplash.com/photo-1602484162360-651e46557f2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=654&q=80"
     },
     {
       "id": "265",
-      "title": "AGRIGENTO",
+      "title": "Agrigento",
       "description": "Fondata intorno al 581 a. C., Agrigento sorge in un territorio in cui si insediarono i vari popoli che lasciarono traccia nell'isola.",
       "imagecity": "https://images.unsplash.com/photo-1573905975434-fa12cde6b7b8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
     }
