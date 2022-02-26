@@ -17,8 +17,8 @@
     {
       "id": 1,
       "city": "Catania",
-      "about": "La vera storia di Sfavolina e Sfavolo",
-      "title": "Il famoso muro con la Bambina con l’Hula Hoop",
+      "about": "Il famoso muro con la Bambina con l’Hula Hoop",
+      "title": "Banksy e Warhol in dialogo, tra anonimato e celebrità",
       "description": "Il famoso muro con la Bambina con l’Hula Hoop, per la prima volta in assoluto esposto in Italia, il dipinto di Kate Moss, Lincoln, Winston Churchill e la Regina Elisabetta di Banksy; il Self Portrait del 1967, i ritratti politici di Mao e Lenin e i ritratti di Mick Jagger, Billy Squier e Judy Garland di Warhol.",
       "price": "12",
       "image": "https://images.unsplash.com/photo-1624892902685-595bb07dd421?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80",
@@ -100,7 +100,7 @@
     },
     {
       "id": 7,
-      "city": "Selinunte",
+      "city": "Trapani",
       "title": "Tour dell'Acropoli e delle spiagge bianche di Selinunte",
       "about": "Unisciti a questo tour nella natura",
       "description": "Unisciti a questo tour nella natura: i colori dorati e sabbiosi della terra bruciata dal sole renderanno la tua esperienza indimenticabile.",
